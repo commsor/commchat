@@ -1,4 +1,4 @@
-I"&<div class="columns">
+I" <div class="columns">
   <div class="column col-10 col-mx-auto  text-center py-32">
     <h1 class="text-primary">The Community for Community Builders</h1>
     <h5 class="text-normal">Community Chat is a private network of community leaders who believe the best way to impact the world is through community. Together, we help each other navigate the world of community building by sharing resources, strategies, and best practices. </h5>
@@ -23,10 +23,10 @@
         <img style="max-width: 90%" src="assets/convertkit.png" />
       </div>
       <div class="column col-2 col-md-4 col-sm-6 text-center">
-        <img style="max-width: 90%" src="assets/remoteyear.png" />
+        <img style="max-width: 90%" src="assets/twilio.png" />
       </div>
       <div class="column col-2 col-md-4 col-sm-6 text-center">
-        <img style="max-width: 90%" src="assets/squirrels.png" />
+        <img style="max-width: 90%" src="assets/twitter.png" />
       </div>
     </div>
   </div>

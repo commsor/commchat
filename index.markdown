@@ -29,10 +29,10 @@ layout: default
         <img style="max-width: 90%" src="assets/convertkit.png">
       </div>
       <div class="column col-2 col-md-4 col-sm-6 text-center">
-        <img style="max-width: 90%" src="assets/remoteyear.png">
+        <img style="max-width: 90%" src="assets/twilio.png">
       </div>
       <div class="column col-2 col-md-4 col-sm-6 text-center">
-        <img style="max-width: 90%" src="assets/squirrels.png">
+        <img style="max-width: 90%" src="assets/twitter.png">
       </div>
     </div>
   </div>
