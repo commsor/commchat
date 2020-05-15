@@ -37,3 +37,31 @@ a {
     text-decoration: none;
   }
 }
+
+
+#mc_embed_signup {
+  clear:left;
+  width:100%;
+}
+
+#mce-EMAIL {
+  font-size: 18px !important;
+  padding: 11px !important;
+  height: auto !important;
+  border: 2px solid $gray-color !important;
+  transition: 0.3s ease all !important;
+  &:focus {
+    border: 2px solid $primary-color !important;
+  }
+}
+
+#mc-embedded-subscribe {
+  background-color: $primary-color !important;
+  padding: 10px 30px !important;
+  height: auto !important;
+  font-size: 18px !important;
+  font-weight: 700 !important;
+  &:hover {
+    background-color: $primary-color-dark !important;
+  }
+}
