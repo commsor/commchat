@@ -9,7 +9,7 @@ layout: default
     <h1 class="text-primary">The Community for Community Builders</h1>
     <h5 class="text-normal">Community Chat is a private network of community leaders who believe the best way to impact the world is through community. Together, we help each other navigate the world of community building by sharing resources, strategies, and best practices. </h5>
     <div class="py-8">
-      <a class="btn btn-lg btn-primary m-2" href="https://commchat.commsor.com/">Join the Community</a>
+      <a class="btn btn-lg btn-primary m-2" href="/join">Join the Community</a>
       <a class="btn btn-lg btn-outline btn-dark m-2" href="/newsletter">Newsletter</a>
     </div>
   </div>
