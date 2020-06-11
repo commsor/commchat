@@ -56,7 +56,17 @@ layout: default
 </div>
 <div class="columns col-x-align my-16">
   <div class="column col-6 col-sm-12 my-8">
-    <iframe src="https://commchat.substack.com/embed" width="100%" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
+    <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
+      <div id="mc_embed_signup">
+      <form action="https://commsor.us8.list-manage.com/subscribe/post?u=30659e9ea7f74f579e0994cd3&amp;id=0c3bdd527f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+          <div id="mc_embed_signup_scroll">
+        <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Your Email" required>
+          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_30659e9ea7f74f579e0994cd3_0c3bdd527f" tabindex="-1" value=""></div>
+          <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+          </div>
+      </form>
+      </div>
   </div>
   <div class="column col-5 col-sm-12 col-ml-auto my-8">
     <h6>Community Chat Weekly Newsletter</h6>
