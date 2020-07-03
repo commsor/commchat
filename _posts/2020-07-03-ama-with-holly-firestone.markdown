@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AMA with Holly Firestone"
-date:   2020-07-03 08:26:18 -0500
+date:   2020-07-03 03:26:18 -0500
 permalink: ama-with-holly-firestone
 name: "Holly Firestone"
 job-title: "Head of Community @ Venafi"
