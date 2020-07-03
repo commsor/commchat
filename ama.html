@@ -1,0 +1,32 @@
+---
+layout: page
+title: Community Resources
+---
+
+<div class="columns">
+  <div class="column col-12 text-center my-16">
+    <h2 class="main-header">Community AMAs</h2>
+    <p>Twice each month, we host an experienced community builder in our community for a live Ask Me Anything (AMA) session with our members. These AMAs give you the chance to ask and interact with those who have been there, done that, and learn more about community building! Not yet in the community? Join below so you don't miss the next AMA.</p>
+    <a class="btn btn-lg btn-primary" href="/join">Join the Community</a>
+    <h4 class="mt-16 main-header">Past AMA Transcripts</h2>
+    <p>Missed an AMA? You can get the transcripts of all our past sessions below, lots of learning to be had!</p>
+  </div>
+</div>
+
+<div class="columns mb-32">
+  
+  {% for post in site.posts offset: 0 %}
+
+  <div class="column col-4 col-sm-6 my-2">
+    <a href='{{ post.url }}' style="text-decoration: none;">
+      <div class="bg-gray p-8 text-center">
+        <div class="resource-header">
+          <img class="s-circle" style="max-width: 70%; margin-bottom: 5px;" src="/assets/ama/{{ post.profile }}.png"/>
+          <h5>{{ post.name }}</h5>
+          <p style="margin-bottom: 5px;">{{ post.title }}</p>
+        </div>
+      </div>
+    </a>
+  </div>
+  {% endfor %} 
+</div>
