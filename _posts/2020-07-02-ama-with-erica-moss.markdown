@@ -11,6 +11,8 @@ profile: erica-moss
 
 **Erica is the Senior Manager of Community Engagement at Atlassian. [Twitter](https://twitter.com/ericajmoss)**
 
+<img style="max-width: 100%" src="/assets/ama/{{ page.header }}.png"/>
+
 
 >Hey, friends! My name’s Erica, and I’m pumped to be here today. I’m currently the senior manager of community engagement at Atlassian, and before that I worked in community roles at Bitly and 2U. My roots are in journalism, and I’ve done a lot of work in social media as well. I’ve been learning a lot about The Loveland Foundation recently and started a monthly donation to support their amazing work, so check them out! https://thelovelandfoundation.org
 
