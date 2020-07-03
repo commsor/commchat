@@ -4,7 +4,7 @@ title:  "AMA with Erica Moss"
 date:   2020-07-02 09:26:18 -0500
 permalink: ama-with-erica-moss
 name: "Erica Moss"
-title: "Manager of Community Engagement @ Atlassian"
+job-title: "Manager of Community Engagement @ Atlassian"
 header: erica-moss-header
 profile: erica-moss
 ---
