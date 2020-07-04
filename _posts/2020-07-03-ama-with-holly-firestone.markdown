@@ -32,7 +32,7 @@ profile: holly-firestone
 
 <br>
 
-**Jacob Peters** - Hey Holly :slightly_smiling_face: Can you tell us more about the transition going from Salesforce and having a tremendous amount of community resources to building community from scratch at Venafi? What are the different playbooks for community 0-1 and community 1-N?
+**Jacob Peters** - Hey Holly 🙂 Can you tell us more about the transition going from Salesforce and having a tremendous amount of community resources to building community from scratch at Venafi? What are the different playbooks for community 0-1 and community 1-N?
 
 >That's a GREAT question, and I'll actually throw one back at you-- what leads you to the assumption that I had more resources at Salesforce than I do at Venafi (besides a larger team)?
 

@@ -14,7 +14,7 @@ profile: erica-moss
 <img style="max-width: 100%" src="/assets/ama/{{ page.header }}.png"/>
 
 
->Hey, friends! My name’s Erica, and I’m pumped to be here today. I’m currently the senior manager of community engagement at Atlassian, and before that I worked in community roles at Bitly and 2U. My roots are in journalism, and I’ve done a lot of work in social media as well. I’ve been learning a lot about The Loveland Foundation recently and started a monthly donation to support their amazing work, so check them out! https://thelovelandfoundation.org
+>Hey, friends! My name’s Erica, and I’m pumped to be here today. I’m currently the senior manager of community engagement at Atlassian, and before that I worked in community roles at Bitly and 2U. My roots are in journalism, and I’ve done a lot of work in social media as well. I’ve been learning a lot about [The Loveland Foundation](https://thelovelandfoundation.org) recently and started a monthly donation to support their amazing work, so check them out! 
 
 <br>
 
@@ -24,7 +24,7 @@ profile: erica-moss
 
 >Potential candidates can apply for the program on our landing page: community.atlassian.com/leaders. The apps are routed through Salesforce and assigned to the proper Community Manager based on geo and interest area. Online candidates are then evaluated by our Community Support team based on a rubric that looks at tone/empathy and technical accuracy. Events candidates are sent a few additional follow-up questions about their goals and then invited to join an onboarding call to learn about processes and resources. Once invited, online Leaders are expected to maintain 50 points per quarter (points are earned by posting, getting accepted answers and writing articles), and events Leaders are required to host at least four events per year.
 
->we recently created this thread so folks know what that journey might look like: https://community.atlassian.com/t5/Feedback-Forum-articles/Welcome-to-your-Atlassian-Community-journey/ba-p/1210504
+>we recently created [this thread](https://community.atlassian.com/t5/Feedback-Forum-articles/Welcome-to-your-Atlassian-Community-journey/ba-p/1210504) so folks know what that journey might look like.
 
 >re: retiring folks, it does happen, but we give them a lot of runway to re-engage if they go a bit dormant (life happens!) but if it's clear that they're no longer a good fit, we retire them and send an exit survey to get at what wasn't working for them.
 
@@ -94,9 +94,9 @@ profile: erica-moss
 
 >thanks, Kelsey! I love this question because I feel like CMs are always looking for new ways to get people engaged, and I learn a lot from our peers in this space.
 
->Recognition is a major motivator for folks in our Leaders program and beyond. Some examples of how that plays out: including members’ stories in keynotes at our annual user conference, content awards, annual community awards, Random Acts of Community badge, Q&As in the community, swag, etc. More about Random Acts of Community: https://community.atlassian.com/t5/Feedback-Forum-articles/Random-Acts-of-Community-badge-now-live/ba-p/1289130 
+>Recognition is a major motivator for folks in our Leaders program and beyond. Some examples of how that plays out: including members’ stories in keynotes at our annual user conference, content awards, annual community awards, Random Acts of Community badge, Q&As in the community, swag, etc. [More about Random Acts of Community](https://community.atlassian.com/t5/Feedback-Forum-articles/Random-Acts-of-Community-badge-now-live/ba-p/1289130 )
 
->Gamification, led by my teammate, Monique, is a huge behavior driver in the Community. We have evergreen badges (Level 1, Level 2, etc.) that people can earn at any time based on increasing activity, as well as badges with specific calls to action (Embrace Remote, Friend of Taco, Fri-yay, etc.) You can check out mine here: https://community.atlassian.com/t5/user/viewprofilepage/user-id/1124559?show=badges#details 
+>Gamification, led by my teammate, Monique, is a huge behavior driver in the Community. We have evergreen badges (Level 1, Level 2, etc.) that people can earn at any time based on increasing activity, as well as badges with specific calls to action (Embrace Remote, Friend of Taco, Fri-yay, etc.) You can check out mine [here](https://community.atlassian.com/t5/user/viewprofilepage/user-id/1124559?show=badges#details ).
 
 <br>
 
@@ -106,7 +106,7 @@ profile: erica-moss
 
 >something that has worked very well for the Atlassian Community is a dedicated section for newbies: the Welcome Center
 
->it has been one of the best ways to establish an inclusive and welcoming tone in the Atlassian Community from a member’s very first interaction: https://community.atlassian.com/t5/Welcome-Center/gp-p/WelcomeCenter It includes links to FAQs, team bios, addresses people who think they’re “too new to contribute” and encourages everyone to introduce themselves. Every person gets a personal hello from me (and often from our Leaders as well!), and I direct them to different areas of the Community based on what they indicate they’re interested in. (edited) 
+>it has been one of the best ways to establish an inclusive and welcoming tone in the Atlassian Community from a member’s [very first interaction](https://community.atlassian.com/t5/Welcome-Center/gp-p/WelcomeCenter). It includes links to FAQs, team bios, addresses people who think they’re “too new to contribute” and encourages everyone to introduce themselves. Every person gets a personal hello from me (and often from our Leaders as well!), and I direct them to different areas of the Community based on what they indicate they’re interested in. (edited) 
 
 <br>
 
@@ -116,5 +116,5 @@ profile: erica-moss
 
 **Max Moriarty** - @Erica (Atlassian) I believe in our young community. The people that are using it and others who we have shown it to see it's value. How do we get more people to log in and visit us at least once?
 
->great question: one suggestion is to introduce the community early and often. we mention it EVERYWHERE, from product emails that get sent to customers, to the contact form on the Trello Support page, to emails that we send folks who get certified in Atlassian products. promotion is key. another suggestion is to make sure you're giving folks stuff in the community that they simply cannot get anywhere else. we've had a huge push to get our product and product marketing teams more involved in community (thanks to my teammates Mandy and Bridget!) through AMAs in the Community (just like this one!), focus groups, product roadshows, product team members as speakers at Community events, trainings for our Leaders, and more. Sample AMA: https://community.atlassian.com/t5/DevOps-Questions/Ask-Me-Anything-All-things-DevOps/qaq-p/1390681 (edited) 
+>great question: one suggestion is to introduce the community early and often. we mention it EVERYWHERE, from product emails that get sent to customers, to the contact form on the Trello Support page, to emails that we send folks who get certified in Atlassian products. promotion is key. another suggestion is to make sure you're giving folks stuff in the community that they simply cannot get anywhere else. we've had a huge push to get our product and product marketing teams more involved in community (thanks to my teammates Mandy and Bridget!) through AMAs in the Community (just like this one!), focus groups, product roadshows, product team members as speakers at Community events, trainings for our Leaders, and more. [Sample AMA](https://community.atlassian.com/t5/DevOps-Questions/Ask-Me-Anything-All-things-DevOps/qaq-p/1390681 ).
 
