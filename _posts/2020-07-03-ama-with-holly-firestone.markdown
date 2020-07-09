@@ -9,7 +9,7 @@ header: holly-firestone-header
 profile: holly-firestone
 ---
 
-**Holly is the Head of Community at Venafi. [Twitter](https://twitter.com/hollygfirestone/) | [LinkedIn](https://www.linkedin.com/in/hollygfirestone/) | [Blog](https://medium.com/@HollyFirestone)**
+**Holly is the Head of Community at Venafi.** [Twitter](https://twitter.com/hollygfirestone/) \| [LinkedIn](https://www.linkedin.com/in/hollygfirestone/) \| [Blog](https://medium.com/@HollyFirestone)
 
 <img style="max-width: 100%" src="/assets/ama/{{ page.header }}.png"/>
 
