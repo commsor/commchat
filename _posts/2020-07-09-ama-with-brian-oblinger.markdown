@@ -13,6 +13,10 @@ profile: brian-oblinger
 
 <img style="max-width: 100%" src="/assets/ama/{{ page.header }}.png"/>
 
+><iframe width="560" height="315" src="https://www.youtube.com/embed/rr5Wiwep6Eg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
 
 **Jocelyn** - Hey Brian! What's one thing you wish you knew when you first started your career in community or that you'd like other folks starting in community to know?
 
